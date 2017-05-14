@@ -1,0 +1,5 @@
+<枫叶个人博客系统1.0>采用asp.netajax2.0+access开发
+作者 杨光远 QQ89201974 个人主页www.mtear.cn
+后台登陆地址 http://你地址/admin
+账号admin 密码admin
+演示地址www.mtear.cn
